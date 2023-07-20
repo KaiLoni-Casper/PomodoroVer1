@@ -1,0 +1,7 @@
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2420 C# Programming II\Personal Projects\pomodoroVer1\pomodoroVer1\bin\Debug\pomodoroVer1.exe.config
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2420 C# Programming II\Personal Projects\pomodoroVer1\pomodoroVer1\bin\Debug\pomodoroVer1.exe
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2420 C# Programming II\Personal Projects\pomodoroVer1\pomodoroVer1\bin\Debug\pomodoroVer1.pdb
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2420 C# Programming II\Personal Projects\pomodoroVer1\pomodoroVer1\obj\Debug\pomodoroVer1.csprojAssemblyReference.cache
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2420 C# Programming II\Personal Projects\pomodoroVer1\pomodoroVer1\obj\Debug\pomodoroVer1.csproj.CoreCompileInputs.cache
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2420 C# Programming II\Personal Projects\pomodoroVer1\pomodoroVer1\obj\Debug\pomodoroVer1.exe
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2420 C# Programming II\Personal Projects\pomodoroVer1\pomodoroVer1\obj\Debug\pomodoroVer1.pdb
